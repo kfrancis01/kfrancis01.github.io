@@ -1,3 +1,79 @@
 theme: jekyll-theme-leap-day
-title: Kea's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: Kea Francis | Robotics Engineer
+description: >
+  Robotics Systems Engineer with 5+ years of experience in autonomous systems,
+  hardware-software integration, and applied robotics research. MS in Robotics
+  Engineering candidate at WPI (August 2026). ASEP Certified.
+
+url: "https://kfrancis01.github.io"
+
+author:
+  name: Kea Francis
+  email: keamfrancis96@gmail.com
+  github: kfrancis01
+  linkedin: kea-francis-880052156
+
+# Featured projects displayed on homepage
+featured_projects:
+  - title: "Adaptive Gamification for Dementia Care"
+    description: >
+      Modular engagement system for the Pepper humanoid robot integrating
+      MediaPipe-based skeletal tracking, LLM-driven adaptive dialogue via
+      ChatGPT API, and ROS2 control. Supports physical activity in older
+      adults with dementia through motion-gated gameplay.
+    tags: [Python, ROS2, MediaPipe, Docker, ZMQ, HRI, Humanoid Robotics]
+    status: Active Research
+
+  - title: "Autonomous Cart Diagnostic Tool"
+    description: >
+      Python SSH tool that automated access into autonomous mobile robots
+      and retrieved diagnostic logs, reducing access time from 2 minutes
+      to 10 seconds across a 30-60 robot fleet spanning two remote sites.
+    tags: [Python, Linux, SSH, Autonomous Mobile Robots, Diagnostics]
+    status: Completed
+
+  - title: "Misroute Classification System"
+    description: >
+      NLP-based ticket classification system using weighted keyword scoring
+      and confusion matrix validation. Achieved 90-96% precision after QA
+      implementation, exceeding the initial 5% reduction target by delivering
+      9-14% reduction in misrouted tickets.
+    tags: [Python, NLP, Machine Learning, SQL, Data Analysis]
+    status: Completed
+
+  - title: "Automated Diagnostic Pipeline"
+    description: >
+      Pipeline that translated operational robotic failure data into structured
+      datasets for AI research teams, accelerating model retraining cycles and
+      improving ML tool output quality.
+    tags: [Python, Data Pipelines, Machine Learning, Robotics]
+    status: Completed
+
+  - title: "Rapiro Social Robot Interface"
+    description: >
+      Bluetooth communication and data-sharing interface built on Raspberry Pi 3
+      for a social robot used in pediatric speech therapy applications.
+    tags: [Python, Raspberry Pi, Bluetooth, Social Robotics, HRI]
+    status: Completed
+
+# Navigation
+nav_links:
+  - title: Projects
+    url: /projects
+  - title: Research
+    url: /research
+  - title: Resume
+    url: /resume
+  - title: Contact
+    url: /contact
+
+# Skills highlight
+skills:
+  languages: [Python, C/C++, SQL, Bash, MATLAB, JavaScript]
+  robotics: [ROS2, Gazebo/RViz, OpenCV, MediaPipe, Arduino, Raspberry Pi]
+  tools: [Docker, Linux, JIRA, SolidWorks, Git]
+  domains: [Autonomous Systems, Human-Robot Interaction, Fleet Diagnostics, NLP]
+
+# Site settings
+markdown: kramdown
+permalink: pretty
