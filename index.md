@@ -3,6 +3,10 @@
 
 ---
 
+## About Me
+
+---
+
 I'm an engineer with a focus on robotics. I have 5+ years of hands-on experience in autonomous systems, hardware-software integration, and applied robotics research. My work spans large-scale warehouse robotics at Amazon Robotics, humanoid robot research at WPI's RoboCare Lab, and embedded systems engineering across multiple robotics domains.
 
 I hold an Associate Systems Engineering Professional (ASEP) certification from INCOSE and am completing my MS in Robotics Engineering at Worcester Polytechnic Institute in August 2026.
