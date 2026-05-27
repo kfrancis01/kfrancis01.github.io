@@ -91,7 +91,6 @@ BS in Mechanical Engineering | May 2019
 
 ---
 ## Awards
-- Undergraduate Research Fellowship | Issued by The University of Tennessee Knoxville · Jan 2019 | Associated with University of Tennessee
-- Undergraduate Research Fellowship | Issued by The University of Tennessee Knoxville · Aug 2018 | Associated with University of Tennessee
-- Society of Women Engineers (SWE) Scholarship Recipient | Issued by Society of Women Engineers · Aug 2016 | Associated with University of Tennessee, Knoxville
-The scholarship also involved a year long membership to the SWE organization
+- Undergraduate Research Fellowship                      | Issued by The University of Tennessee Knoxville · Jan 2019 | Associated with University of Tennessee
+- Undergraduate Research Fellowship                      | Issued by The University of Tennessee Knoxville · Aug 2018 | Associated with University of Tennessee
+- Society of Women Engineers (SWE) Scholarship Recipient | Issued by Society of Women Engineers · Aug 2016            | Associated with University of Tennessee
