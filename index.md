@@ -44,6 +44,8 @@ Data pipeline that translated operational robotic failure data into structured d
 ---
 
 ### [Rapiro Social Robot Interface](/projects/rapiro)
+<img width="302" height="139" alt="image" src="https://github.com/user-attachments/assets/cf22a632-b5ad-4c1a-aca9-fd155d366872" />
+
 Bluetooth communication and data-sharing interface on Raspberry Pi 3 for a social robot used in pediatric speech therapy research. Supported a study on human-computer interaction and feedback delivery mechanisms in therapeutic settings.
 
 `Python` `Raspberry Pi` `Bluetooth` `Android` `MIT App Inventor`
