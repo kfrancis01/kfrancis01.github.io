@@ -1,7 +1,7 @@
 # Kea Francis
-#### Robotics Systems Engineer | MS Robotics Engineering, WPI (August 2026) | ASEP Certified
+[Home](/) | [Kea Francis Resume](/Kea_Francis_Resume.pdf) | [GitHub](https://github.com/kfrancis01)
 
-[Kea Francis Resume](Kea_Francis_Resume.pdf)
+#### Robotics Systems Engineer | MS Robotics Engineering, WPI (August 2026) | ASEP Certified
 
 ---
 
@@ -89,3 +89,9 @@ BS in Mechanical Engineering | May 2019
 - **NHCGNE Annual Conference (2025)** — *Adaptive Gamified Robotic Interventions for Mitigating Physical Inactivity Among Persons with Dementia* — Virtual Podium Presentation
 - **MassITC Conference** — Live Demo: Adaptive Gamification in Dementia Care
 
+---
+## Awards
+- Undergraduate Research Fellowship | Issued by The University of Tennessee Knoxville · Jan 2019 | Associated with University of Tennessee
+- Undergraduate Research Fellowship | Issued by The University of Tennessee Knoxville · Aug 2018 | Associated with University of Tennessee
+- Society of Women Engineers (SWE) Scholarship Recipient | Issued by Society of Women Engineers · Aug 2016 | Associated with University of Tennessee, Knoxville
+The scholarship also involved a year long membership to the SWE organization
