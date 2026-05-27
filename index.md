@@ -1,5 +1,9 @@
 # Kea Francis
-### Robotics Systems Engineer | MS Robotics Engineering, WPI (August 2026) | ASEP Certified
+#### Robotics Systems Engineer | MS Robotics Engineering, WPI (August 2026) | ASEP Certified
+
+---
+
+## About Me
 
 ---
 
