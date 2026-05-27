@@ -56,8 +56,6 @@ featured_projects:
 
 # Navigation
 nav_links:
-  - title: Projects
-    url: /projects
   - title: Research
     url: /research
   - title: Resume
