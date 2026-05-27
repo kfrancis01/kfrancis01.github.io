@@ -11,35 +11,35 @@ I'm an engineer with robotics engineer. I have 5+ years of hands-on experience i
 
 ## Featured Projects
 
-### [Adaptive Gamification for Dementia Care](/projects/pepper-dementia-care)
+### [Adaptive Gamification for Dementia Care](/projects/pepper)
 Modular autonomous engagement system for the Pepper humanoid robot integrating MediaPipe-based skeletal tracking, LLM-driven adaptive dialogue, and ROS2 control. Supports physical activity in older adults with dementia through motion-gated gameplay. Presented at NHCGNE Annual Conference 2025 and MassITC Conference.
 
 `Python` `ROS2` `Docker` `MediaPipe` `ZMQ` `ChatGPT API`
 
 ---
 
-### [Autonomous Robot Diagnostic Tool](/projects/cart-diagnostic-tool)
+### [Autonomous Robot Diagnostic Tool](/projects/canvas)
 Python SSH tool that automated access into autonomous mobile robots and retrieved diagnostic logs, reducing access time from 2+ minutes to under 10 seconds across a multi-robot fleet spanning two remote sites. Adopted by the broader engineering team.
 
 `Python` `Paramiko` `SSH` `Linux`
 
 ---
 
-### [Misroute Classification System](/projects/misroute-classification)
+### [Misroute Classification System](/projects/misroute)
 NLP-based ticket classification system using weighted keyword scoring and confusion matrix validation. Achieved 90-96% precision after QA implementation — nearly tripling the initial 5% reduction target by delivering a 9-14% reduction in misrouted tickets.
 
 `Python` `NLP` `SQL` `Machine Learning`
 
 ---
 
-### [Automated Diagnostic Pipeline](/projects/diagnostic-pipeline)
+### [Automated Diagnostic Pipeline](/projects/baymax)
 Data pipeline that translated operational robotic failure data into structured datasets for AI research teams, accelerating model retraining cycles and improving ML tool output quality.
 
 `Python` `Data Pipelines` `SQL` `Machine Learning`
 
 ---
 
-### [Rapiro Social Robot Interface](/projects/rapiro-robot)
+### [Rapiro Social Robot Interface](/projects/rapiro)
 Bluetooth communication and data-sharing interface on Raspberry Pi 3 for a social robot used in pediatric speech therapy research. Supported a study on human-computer interaction and feedback delivery mechanisms in therapeutic settings.
 
 `Python` `Raspberry Pi` `Bluetooth` `Android` `MIT App Inventor`
