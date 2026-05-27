@@ -10,7 +10,7 @@
 I'm an engineer with robotics engineer. I have 5+ years of hands-on experience in autonomous systems, hardware-software integration, and applied robotics research. My work spans large-scale warehouse robotics, humanoid robot research at WPI's RoboCare Lab, and embedded systems engineering across multiple robotics domains.
 
 #### Contact Information
-| 📧 keamfrancis96@gmail.com | [LinkedIn](https://www.linkedin.com/in/kea-francis-880052156/) | 
+| 📧 keamfrancis96@gmail.com | <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/c5362cea-db43-4cd7-8049-ca3381fa002d" /> [LinkedIn](https://www.linkedin.com/in/kea-francis-880052156/) | 
 
 ---
 
@@ -24,6 +24,8 @@ Modular autonomous engagement system for the Pepper humanoid robot integrating M
 ---
 
 ### [Autonomous Robot Diagnostic Tool](/projects/canvas)
+<img width="516" height="342" alt="image" src="https://github.com/user-attachments/assets/785b333f-1781-4443-810a-8fa38752167e" />
+
 Python SSH tool that automated access into autonomous mobile robots and retrieved diagnostic logs, reducing access time from 2+ minutes to under 10 seconds across a multi-robot fleet spanning two remote sites. Adopted by the broader engineering team.
 
 `Python` `Paramiko` `SSH` `Linux`
