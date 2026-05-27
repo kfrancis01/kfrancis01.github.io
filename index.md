@@ -3,11 +3,11 @@
 
 ---
 
-I'm a robotics systems engineer with 5+ years of hands-on experience in autonomous systems, hardware-software integration, and applied robotics research. My work spans large-scale warehouse robotics at Amazon Robotics, humanoid robot research at WPI's RoboCare Lab, and embedded systems engineering across multiple robotics domains.
+I'm an engineer with a focus on robotics. I have 5+ years of hands-on experience in autonomous systems, hardware-software integration, and applied robotics research. My work spans large-scale warehouse robotics at Amazon Robotics, humanoid robot research at WPI's RoboCare Lab, and embedded systems engineering across multiple robotics domains.
 
 I hold an Associate Systems Engineering Professional (ASEP) certification from INCOSE and am completing my MS in Robotics Engineering at Worcester Polytechnic Institute in August 2026.
 
-📧 keamfrancis96@gmail.com | [LinkedIn](https://www.linkedin.com/in/kea-francis-880052156/) | [GitHub](https://github.com/kfrancis01)
+| 📧 keamfrancis96@gmail.com | [LinkedIn](https://www.linkedin.com/in/kea-francis-880052156/) 
 
 ---
 
@@ -145,7 +145,3 @@ BS in Mechanical Engineering | May 2019
 
 - **NHCGNE Annual Conference (2025)** — *Adaptive Gamified Robotic Interventions for Mitigating Physical Inactivity Among Persons with Dementia* — Virtual Podium Presentation
 - **MassITC Conference** — Live Demo: Adaptive Gamification in Dementia Care
-
----
-
-*Last updated May 2026*
