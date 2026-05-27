@@ -21,7 +21,7 @@ Modular autonomous engagement system for the Pepper humanoid robot integrating M
 ---
 
 ### [Autonomous Robot Diagnostic Tool](/projects/canvas)
-<img width="516" height="342" alt="image" src="https://github.com/user-attachments/assets/785b333f-1781-4443-810a-8fa38752167e" />
+<img width="316" height="150" alt="image" src="https://github.com/user-attachments/assets/785b333f-1781-4443-810a-8fa38752167e" />
 
 Python SSH tool that automated access into autonomous mobile robots and retrieved diagnostic logs, reducing access time from 2+ minutes to under 10 seconds across a multi-robot fleet spanning two remote sites. Adopted by the broader engineering team.
 
