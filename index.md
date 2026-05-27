@@ -5,8 +5,6 @@
 
 ## About Me
 
----
-
 I'm an engineer with robotics engineer. I have 5+ years of hands-on experience in autonomous systems, hardware-software integration, and applied robotics research. My work spans large-scale warehouse robotics, humanoid robot research at WPI's RoboCare Lab, and embedded systems engineering across multiple robotics domains.
 
 | 📧 keamfrancis96@gmail.com | [LinkedIn](https://www.linkedin.com/in/kea-francis-880052156/) 
