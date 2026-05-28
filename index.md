@@ -79,8 +79,8 @@ BS in Mechanical Engineering | May 2019
 
 ## Certifications
 
-- Associate Systems Engineering Professional (ASEP) * Issued by INCOSE * November 2024
-- Level One Certified Airborne Ultrasound Inspector * Credential ID 2016-2592 * September 2016
+- Associate Systems Engineering Professional (ASEP) - Issued by INCOSE - November 2024
+- Level One Certified Airborne Ultrasound Inspector - Credential ID 2016-2592 - September 2016
 
 ---
 
@@ -91,6 +91,6 @@ BS in Mechanical Engineering | May 2019
 
 ---
 ## Awards
-- Undergraduate Research Fellowship                      | Issued by The University of Tennessee Knoxville · Jan 2019 | Associated with University of Tennessee
-- Undergraduate Research Fellowship                      | Issued by The University of Tennessee Knoxville · Aug 2018 | Associated with University of Tennessee
-- Society of Women Engineers (SWE) Scholarship Recipient | Issued by Society of Women Engineers · Aug 2016            | Associated with University of Tennessee
+- Undergraduate Research Fellowship - Issued by The University of Tennessee Knoxville · Jan 2019 - Associated with University of Tennessee
+- Undergraduate Research Fellowship - Issued by The University of Tennessee Knoxville · Aug 2018 - Associated with University of Tennessee
+- Society of Women Engineers (SWE) Scholarship Recipient - Issued by Society of Women Engineers · Aug 2016 - Associated with University of Tennessee
