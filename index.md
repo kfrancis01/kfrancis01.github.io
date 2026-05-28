@@ -79,8 +79,8 @@ BS in Mechanical Engineering | May 2019
 
 ## Certifications
 
-- Associate Systems Engineering Professional (ASEP) | INCOSE | November 2024
-- Level One Certified Airborne Ultrasound Inspector | September 2016
+- Associate Systems Engineering Professional (ASEP) * Issued by INCOSE * November 2024
+- Level One Certified Airborne Ultrasound Inspector * Credential ID 2016-2592 * September 2016
 
 ---
 
