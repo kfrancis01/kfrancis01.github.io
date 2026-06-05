@@ -1,7 +1,7 @@
 # Kea Francis
 [Home](/) | [Kea Francis Resume](/Kea_Francis_Resume.pdf) | [GitHub](https://github.com/kfrancis01)
 
-#### Robotics Systems Engineer | MS Robotics Engineering, WPI (August 2026) | ASEP Certified
+#### Technical Support Engineer | MS Robotics Engineering, WPI (August 2026) | ASEP Certified
 
 ---
 
@@ -67,6 +67,7 @@ Bluetooth communication and data-sharing interface on Raspberry Pi 3 for a socia
 
 **Worcester Polytechnic Institute**
 MS in Robotics Engineering | Expected August 2026
+
 *Relevant Courses: Robot Dynamics, Robot Control, ML for Robotics, Human-Robot Interaction, Systems Engineering*
 
 **Worcester Polytechnic Institute**
