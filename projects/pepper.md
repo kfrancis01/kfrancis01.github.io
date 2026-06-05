@@ -18,7 +18,7 @@ Designed and built a modular autonomous engagement system for the Pepper humanoi
 
 ## Problem
 
-Physical inactivity is a significant challenge in dementia care. Existing robotic engagement systems used static, scripted interactions that couldn't adapt to individual patient behavior or real-time movement variability — limiting their therapeutic effectiveness in a population where cognitive and physical capacity varies significantly between sessions and individuals.
+Physical inactivity is a significant challenge in dementia care. Existing robotic engagement systems used static, scripted interactions that couldn't adapt to individual patient behavior or real-time movement variability. This limits their therapeutic effectiveness in a population where cognitive and physical capacity varies significantly between sessions and individuals.
 
 ---
 
@@ -88,4 +88,4 @@ A previous iteration used dockerized ROS2 communication to integrate browser-bas
 
 ## Stack
 
-Python | ROS2 | Docker | ZMQ | MediaPipe | ChatGPT API | JavaScript | React | Pepper SDK
+Python | Docker | ZMQ | MediaPipe | ChatGPT API | JavaScript | React | Pepper SDK
