@@ -16,7 +16,7 @@ I'm an engineer specializing in robotics. I have 5+ years of hands-on experience
 ### [Adaptive Gamification for Dementia Care](/projects/pepper)
 Modular autonomous engagement system for the Pepper humanoid robot integrating MediaPipe-based skeletal tracking, LLM-driven adaptive dialogue, and ROS2 control. Supports physical activity in older adults with dementia through motion-gated gameplay. Presented at NHCGNE Annual Conference 2025 and MassITC Conference.
 
-`Python` `ROS2` `Docker` `MediaPipe` `ZMQ` `ChatGPT API`
+`Python` `Docker` `MediaPipe` `ZMQ` `ChatGPT API`
 
 ---
 
@@ -80,8 +80,8 @@ BS in Mechanical Engineering | May 2019
 
 ## Certifications
 
-- Associate Systems Engineering Professional (ASEP) - Issued by INCOSE - November 2024
-- Level One Certified Airborne Ultrasound Inspector - Credential ID 2016-2592 - September 2016
+- **Associate Systems Engineering Professional (ASEP)** - Issued by INCOSE - November 2024
+- **Level One Certified Airborne Ultrasound Inspector** - Credential ID 2016-2592 - September 2016
 
 ---
 
@@ -92,6 +92,6 @@ BS in Mechanical Engineering | May 2019
 
 ---
 ## Awards
-- Undergraduate Research Fellowship - Issued by The University of Tennessee Knoxville · Jan 2019 - Associated with University of Tennessee
-- Undergraduate Research Fellowship - Issued by The University of Tennessee Knoxville · Aug 2018 - Associated with University of Tennessee
-- Society of Women Engineers (SWE) Scholarship Recipient - Issued by Society of Women Engineers · Aug 2016 - Associated with University of Tennessee
+- **Undergraduate Research Fellowship** - Issued by The University of Tennessee Knoxville · Jan 2019 - Associated with University of Tennessee
+- **Undergraduate Research Fellowship** - Issued by The University of Tennessee Knoxville · Aug 2018 - Associated with University of Tennessee
+- **Society of Women Engineers (SWE) Scholarship Recipient** - Issued by Society of Women Engineers · Aug 2016 - Associated with University of Tennessee
