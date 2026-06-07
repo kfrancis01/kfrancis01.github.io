@@ -13,7 +13,7 @@ I'm an engineer specializing in robotics. I have 5+ years of hands-on experience
 ## Featured Projects
 
 ### [Adaptive Gamification for Dementia Care](/projects/pepper)
-Modular autonomous engagement system for the Pepper humanoid robot integrating MediaPipe-based skeletal tracking, LLM-driven adaptive dialogue, and ROS2 control. Supports physical activity in older adults with dementia through motion-gated gameplay. Presented at NHCGNE Annual Conference 2025 and MassITC Conference.
+Modular autonomous engagement system for the Pepper humanoid robot integrating MediaPipe-based skeletal tracking and LLM-driven adaptive dialogue. Supports physical activity in older adults with dementia through motion-gated gameplay. Presented at NHCGNE Annual Conference 2025 and MassITC Conference.
 
 `Python` `Docker` `MediaPipe` `ZMQ` `ChatGPT API`
 
