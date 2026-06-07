@@ -1,4 +1,3 @@
-# Kea Francis
 [Home](/) | [Kea Francis Resume](/Kea_Francis_Resume.pdf) | [GitHub](https://github.com/kfrancis01)
 
 #### Technical Support Engineer | MS Robotics Engineering, WPI (August 2026) | ASEP Certified
