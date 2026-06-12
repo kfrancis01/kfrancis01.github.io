@@ -1,6 +1,6 @@
-[Home](/) | [Kea Francis Resume](/Kea_Francis_Resume.pdf) | [GitHub](https://github.com/kfrancis01)
+[Home](/) | [Kea Francis Resume](/Kea_Francis_Resume.pdf) | [GitHub](https://github.com/kfrancis01) | <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/c5362cea-db43-4cd7-8049-ca3381fa002d" /> [LinkedIn](https://www.linkedin.com/in/kea-francis-880052156/)
 
-#### Technical Support Engineer | MS Robotics Engineering, WPI (August 2026) | ASEP Certified
+#### Technical Support Engineer | MS Robotics Engineering, WPI (August 2026) | Associate Systems Engineering Professional (ASEP) Certified
 
 ---
 
@@ -80,6 +80,7 @@ BS in Mechanical Engineering | May 2019
 ## Certifications
 
 - **Associate Systems Engineering Professional (ASEP)** - Issued by INCOSE - November 2024
+- **Intro to PostgreSQL Databases with PgAdmin For Begineers** - Issued by Udemy - May 2021
 - **Level One Certified Airborne Ultrasound Inspector** - Credential ID 2016-2592 - September 2016
 
 ---
